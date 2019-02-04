@@ -1,0 +1,8 @@
+{
+    "invokerPackage": "Jacobemerick\\LifestreamService",
+    "modelPackage": "Jacobemerick\\LifestreamService\\Model",
+    "apiPackage": "Jacobemerick\\LifestreamService\\Api",
+    "packagePath": "",
+    "composerVendorName": "jacobemerick",
+    "composerProjectName": "lifestream-service-client"
+}
